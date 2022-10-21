@@ -23,9 +23,13 @@ We've done a lot of work and I truly hope you have enjoyed the process as much a
 
 ### HTML Page and our results
 
-![alt text](http://url/to/img.png)
+![The_Truth_is_Out_There.png](The_Truth_is_Out_There.png)
 
 
+![Bottom.png](Bottom.png)
+
+
+![Filtered.png](Filtered.png)
 
 
 ## Summary
